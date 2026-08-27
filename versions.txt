@@ -1,1 +1,1 @@
-TDIAG version = 1.2.0.0
+TDIAG version = 1.2.1.0
